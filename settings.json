@@ -1,0 +1,9 @@
+{
+  "containers" : [ "AVI", "M2TS", "M4V", "MKV" , "MP4"],
+  "codecs" : [ "h.264", "x264" , "XViD"],
+  "qualities" : [ "720p" , "1080p", "1080i", "Portable Device" , "SD" ],
+  "sources" : [ "BD50" , "BDRip" , "Bluray" , "DVDRip" , "HDTV" , "WEB-DL", "WEBRip" ],
+  "encoders" : [ "Internal", "Mixed", "P2P" , "Scene" , "User"]
+}
+
+

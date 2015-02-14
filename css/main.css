@@ -1,0 +1,79 @@
+.button-success,
+.button-error{
+    color: white;
+    border-radius: 4px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.button-success {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+.button-error {
+    background: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.button-xsmall {
+    font-size: 70%;
+}
+
+.button-small {
+    font-size: 85%;
+}
+
+.button-large {
+    font-size: 110%;
+}
+
+.button-xlarge {
+    font-size: 125%;
+}
+
+#season_menu{
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+.season_div,
+.quality_group,
+.pop_info,
+.pop_torrent{
+    width: 100%;
+    display: block;
+}
+
+.pop_info div {
+    font-weight: bold;
+}
+
+
+.center{
+    text-align: center;
+}
+
+.settings{
+    width: 500px;
+}
+
+
+.quality_heading{
+    font: 18px Arial;
+    padding: 10px;
+    letter-spacing: 0em;
+}
+
+.download_all_div{
+    padding: 10px;
+    letter-spacing: 0em;
+}
+
+.pop_info,
+.pop_torrent{
+    padding:5px;
+    display: block;
+}
+
+.padding{
+    padding:50px;
+}
